@@ -1,6 +1,6 @@
 {
   "name": "redux-todo",
-  "homepage": "https://atsuyoshi-n.github.io/sandbox",
+  "homepage": "https://atsuyoshi-n.github.io/redux-todo",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
